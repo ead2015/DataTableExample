@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\bin\Debug\DataTableExample.exe.config
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\bin\Debug\DataTableExample.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\bin\Debug\DataTableExample.pdb
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\obj\Debug\DataTableExample.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\obj\Debug\DataTableExample.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataTableExample\DataTableExample\obj\Debug\DataTableExample.pdb
